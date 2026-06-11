@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227088/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8
+CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225762/index.m3u8
 CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227067/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV-4中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225781/index.m3u8
@@ -227,11 +227,11 @@ CGTN阿拉伯语,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227095/i
 CGTN西班牙语,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227098/index.m3u8
 
 其它频道,#genre#
+第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
 金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 快乐垂钓,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
 茶频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
 快乐购,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226353/index.m3u8
-第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
 央广购物,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226032/index.m3u8
 好享购物,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226018/index.m3u8
 书画频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227129/index.m3u8
@@ -252,6 +252,7 @@ CGTN西班牙语,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227098/i
 未知频道8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227116/index.m3u8
 未知频道9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227119/index.m3u8
 未知频道10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227122/index.m3u8
+未知频道11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227088/index.m3u8
 
 4K频道,#genre#
 CCTV4K超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
